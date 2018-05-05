@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_central.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_central.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_left.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_right.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_top.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bottom.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_left.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_central.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_central.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_right.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_composite_central.xml",
+        "source": "F:\\AndroidStudioProjects\\Ringtones&Wallpapers\\app\\src\\main\\res\\layout\\fragment_composite_central.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_composite_central.xml",
+        "source": "F:\\AndroidStudioProjects\\SnapchatDashboard-master\\app\\src\\main\\res\\layout\\fragment_composite_central.xml"
+    }
+]
